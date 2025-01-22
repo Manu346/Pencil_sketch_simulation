@@ -2,20 +2,20 @@
 
 A Python project that simulates the process of drawing a pencil sketch from an input image. The program uses OpenCV to convert an image into a realistic pencil sketch and visually recreates the drawing process, mimicking human-like pencil strokes.
 
-FEATURES
+**FEATURES**
 
 - Converts any image into a realistic pencil sketch.
 - Displays a step-by-step drawing simulation of the pencil sketch creation.
 - Adjustable pencil speed for fine-tuned performance.
 - Supports grayscale and edge-based sketching.
 
-REQUIREMENTS
+**REQUIREMENTS**
 
 - Python 3.x
 - OpenCV (`pip install opencv-python`)
 - NumPy (`pip install numpy`)
 
-How to Run
+$How$ $to$ $Run$
 
 1. Clone the repository:
 
